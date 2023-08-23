@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ShelfWatch](https://github.com/JoseEscauriza/ShelfWatch)
 
-- 🌱 I’m currently learning **SQL, FastAPI**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m collaborating on [an unnamed Kanban app](https://github.com/vitaliisili/FastApi-Kanban-App)
 
