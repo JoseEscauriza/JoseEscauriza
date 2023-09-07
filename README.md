@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Jose</h1>
 <h3 align="center">A driven backend developer from Paraguay.</h3>
 
-- 🔭 I’m currently working on [ShelfWatch](https://github.com/JoseEscauriza/ShelfWatch)
+- 🔭 I’m currently working on [Flydentifier](https://github.com/JoseEscauriza/Flydentifier)
 
 - 🌱 I’m currently learning **Django**
 
 - 👯 I’m collaborating on [an unnamed Kanban app](https://github.com/vitaliisili/FastApi-Kanban-App)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python** // **Music**
 
-- 📫 How to reach me **escaurizajose@gmail.com**
+- 📫 How to reach me **escaurizajose@gmail.com** // [LinkedIn](https://www.linkedin.com/in/jose-escauriza/)
 
 - ⚡ Fun fact **I love to play music**
 
