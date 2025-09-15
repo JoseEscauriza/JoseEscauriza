@@ -1,17 +1,15 @@
 <h1 align="center">Hi, I'm Jose</h1>
 <h3 align="center">A driven backend developer from Paraguay.</h3>
 
-- 🔭 I’m currently working on [Flydentifier](https://github.com/JoseEscauriza/Flydentifier)
+- 🔭 I’m currently working on Private Projects
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **C++**
 
-- 👯 I’m collaborating on [an unnamed Kanban app](https://github.com/vitaliisili/FastApi-Kanban-App)
+- 👯 I’m collaborating on [a School Scrum Project](https://github.com/)
 
-- 💬 Ask me about **Python** // **Music**
+- 💬 Ask me about **Fishing** // **Music**
 
 - 📫 How to reach me **escaurizajose@gmail.com** // [LinkedIn](https://www.linkedin.com/in/jose-escauriza/)
-
-- ⚡ Fun fact **I love to play music**
 
 
 
